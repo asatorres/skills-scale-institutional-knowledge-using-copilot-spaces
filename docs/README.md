@@ -23,14 +23,19 @@ Quality assurance is embedded throughout the development process. Teams follow d
 - <a href="octoacme-retrospective-and-continuous-improvement.md">Retrospective &amp; Continuous Improvement</a>
 - <a href="octoacme-roles-and-personas.md">Roles and Personas</a>
 
+### Templates & Checklists
+
+- <a href="octoacme-release-checklist-template.md">Release Checklist Template</a>
+- <a href="octoacme-requirements-gathering-template.md">Requirements Gathering Template</a>
+
 ---
 
 ## How to Use These Docs
 
 - **New to OctoAcme?** Start with the [Project Management Overview](octoacme-project-management-overview.md) to understand our principles and approach, then review [Roles and Personas](octoacme-roles-and-personas.md) to see how different team members contribute.
-- **Starting a new project?** Follow the [Project Initiation Guide](octoacme-project-initiation.md) and [Project Planning](octoacme-project-planning.md) to set up your project for success.
+- **Starting a new project?** Follow the [Project Initiation Guide](octoacme-project-initiation.md) and [Project Planning](octoacme-project-planning.md) to set up your project for success. Use the [Requirements Gathering Template](octoacme-requirements-gathering-template.md) to document requirements comprehensively.
 - **During active development?** Refer to [Execution &amp; Tracking](octoacme-execution-and-tracking.md) for workflows and [Risk Management &amp; Communication](octoacme-risks-and-communication.md) for handling blockers.
-- **Preparing for release?** Use the [Release &amp; Deployment Guide](octoacme-release-and-deployment.md) checklist.
+- **Preparing for release?** Use the [Release &amp; Deployment Guide](octoacme-release-and-deployment.md) and [Release Checklist Template](octoacme-release-checklist-template.md) to ensure thorough release preparation.
 - **After a milestone?** Run a [Retrospective](octoacme-retrospective-and-continuous-improvement.md) to capture learnings.
 
 For Copilot Spaces integration, consider adding relevant process docs to your `.copilot/` directory to provide context-aware guidance.
