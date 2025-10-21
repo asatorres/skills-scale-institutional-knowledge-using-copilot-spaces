@@ -3,6 +3,8 @@
 ## Purpose
 Turn an approved initiative into an actionable plan and backlog for delivery.
 
+For detailed requirements documentation, use the [Requirements Gathering Template](octoacme-requirements-gathering-template.md).
+
 ## Objectives
 - Break work into shippable increments
 - Identify dependencies and risks
